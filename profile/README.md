@@ -7,7 +7,7 @@ ReplyLayer provides safe email infrastructure for AI agents: mailboxes, sending,
 Install the official Node CLI package and use the `rly` command:
 
 ```bash
-npm i -g replylayer
+npm i -g rly
 rly --help
 ```
 
@@ -20,7 +20,7 @@ rly --help
 
 ## Packages
 
-- npm CLI: `replylayer`
+- npm CLI: `rly`
 - PyPI launcher: `rly`
 
 ## Security
@@ -31,4 +31,4 @@ Please report security issues privately to `security@replylayer.ai`.
 
 - Website: https://replylayer.ai
 - PyPI: https://pypi.org/project/rly/
-- npm: https://www.npmjs.com/package/replylayer
+- npm: https://www.npmjs.com/package/rly
