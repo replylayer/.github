@@ -18,6 +18,12 @@ pipx install rly
 rly --help
 ```
 
+## MCP server
+
+Connect any MCP client to the hosted server at `https://api.replylayer.ai/v1/mcp`, or run the npm package `replylayer-mcp` locally.
+
+[![ReplyLayer MCP server](https://mcprush.com/badge/replylayer-mcp/card.svg)](https://mcprush.com/to/replylayer-mcp?ref=badge)
+
 ## Packages
 
 - npm CLI: `rly`
